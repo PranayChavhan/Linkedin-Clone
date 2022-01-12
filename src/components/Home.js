@@ -15,7 +15,7 @@ const Home = () => {
 }
 
 const Container = styled.div`
-    margin-top: 40px;
+    margin-top: 80px;
 `;
 
 export default Home
